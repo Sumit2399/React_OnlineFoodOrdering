@@ -1,0 +1,1 @@
+export const roundto2decimalPoint=value=>Math.round((value+Number.EPSILON)*100)/100;
